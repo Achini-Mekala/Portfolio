@@ -1,6 +1,6 @@
 
 * {
-    
+    margin 0;
     padding: 0;
     box-sizing: border-box;
   }
@@ -106,7 +106,7 @@
   }
   
   #Home h1 span {
-    color: #00c3ff;}
+    color: #008cff;}
   
   
   
